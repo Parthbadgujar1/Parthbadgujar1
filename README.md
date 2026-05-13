@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Parth Badgujar
 
-<!--
-**Parthbadgujar1/Parthbadgujar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & Data Science Student
+- B.Tech AI & DS @ CSMSS
+- Building AI + Web + IoT Projects
+- SGPA: 8.07
+- Exploring Full Stack Development
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+Python | JavaScript | React | Next.js | Firebase | Git | HTML | CSS | Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- Neural Nexus
+- MindCare AI
+- Rotating Solar Panel
+- Department Management System
+
+## 📈 GitHub Stats
+
+## 🌐 Connect With Me
+LinkedIn | Portfolio | Email
